@@ -7,28 +7,28 @@
 
 
 ## Course Description
-The course covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.
+The course covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.	
 
 ## Course Structure
 
 * Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class.  
 
-* Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (25 + 15 questions)
+* Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (40 min : 25 min + 15 min for questions)
 
-
-
+* A few lectures will be presentations from researchers involved in deploying machine learning models in the real world.
 
 
 ### Lecture Location
 Monday, 5:10-7:00pm, in Warren Weaver Hall 1302
-###[Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
+
+### [Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
 Wednesdays, 7:10-8:00pm in [Meyer Hall of Physics](http://physics.as.nyu.edu/object/physics.directions) 121 
 
 ### Office hours
 DS: Mondays, 10:00-11:00am. Location: 715 Broadway, 12th floor, room 1204.
 
 ### Grading
-The largest part of the grade will be the final project report. The split up is as follows
+The final project report will be the largest part of the grade. The split up is as follows
 
 Reading Responses sets (10%) + lecture scribe (10%) + class presentation (10%) + final project report (70%).
 
@@ -99,10 +99,3 @@ There is no required book. Assigned readings will come from freely-available onl
 
 #### Further Reading
 
-### Academic Honesty
-
-We expect you to try solving each problem set on your own. However, when being stuck on a problem, we encourage you to collaborate with other students in the class, subject to the following rules:
-  - You may discuss a problem with any student in this class, and work together on solving it. This can involve brainstorming and verbally discussing the problem, going together through possible solutions, but should not involve one student telling another a complete solution.
-  - Once you solve the homework, you must write up your solutions on your own, without looking at other people's write-ups or giving your write-up to others.
-  - In your solution for each problem, you must write down the names of any person with whom you discussed it. This will not affect your grade.
-  - Do not consult solution manuals or other people's solutions from similar courses.
