@@ -1,4 +1,4 @@
-# Machine Learning for Healthcare (CSCI-GA.3033-083 / DS-GA.3001-005)
+# Special Topics in Data Science: Machine Learning for Healthcare (CSCI-GA.3033-083 / DS-GA.3001-005)
 
 #### *Course staff:*
 | | Name | E-mail |
@@ -28,7 +28,7 @@ Monday, 2:00-3:40pm, in [HEBU CR1](https://www.nyu.edu/students/student-informat
 Tuesdays, 1:00-1:50pm in TBD
 
 ### Office hours
-RR: Fill office hours. Mondays, 10:00-11:00am. Location: 715 Broadway, 12th floor, room 1204.
+RR: Fill office hours. Fill location. room 1204.
 
 ### Grading
 The final project report will be the largest part of the grade. 
