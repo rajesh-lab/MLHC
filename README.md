@@ -24,7 +24,7 @@ The course covers machine learning methods important for healthcare including ca
 ### Lecture Location
 Monday, 2:00-3:40pm, in [HEBU CR1](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/registration/classroom-locations.html)
 
-### [Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs)
+### Recitation/Laboratory
 Tuesdays, 1:00-1:50pm in TBD
 
 ### Office hours
@@ -36,7 +36,7 @@ The project report is due on 12/15/20. In addition to the research paper, a week
 is due in class. People will be required to report on their projects once during the
 course of the term.
 
-**The grade split up is as follows: ** 
+**The grade split up is as follows:** 
 
 **Reading Responses sets (10%) + lecture scribe (10%) + class presentation (10%) + final project report (70%).**
 
