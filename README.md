@@ -8,7 +8,7 @@
 | Grader | ?       | ?      |
 
 ## Course Description
-The course covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.
+This is a seminar course that covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.
 
 ## Course Structure
 
@@ -16,9 +16,10 @@ The course covers machine learning methods important for healthcare including ca
 
 * Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (35 min : 25 min + 10 min for questions)
 
+* Students can join the discussion or do their class presentations over zoom.
+
 * A few lectures will be presentations from researchers involved in deploying machine learning models in the real world.
 
-* Students can join the discussion or do their class presentations over zoom.
 
 
 ### Lecture Location
