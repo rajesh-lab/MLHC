@@ -3,9 +3,9 @@
 #### *Course staff:*
 | | Name | E-mail |
 |----------|---------------|----------------|
-| Instructor | [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/)        | rajeshr@cims.nyu.edu           |
+| Instructor | [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/)     | rajeshr@cims.nyu.edu           |
 | TA | [Aahlad Puli](https://aahladmanas.github.io/)        | aahlad@nyu.edu        |
-| Grader | ?       | ?      |
+| Grader | [Mukund Sudarshan](https://cs.nyu.edu/~sudarshan/)   | ms7490@nyu.edu |
 
 ## Course Description
 This is a seminar course that covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.
@@ -49,6 +49,7 @@ We will use [Piazza](http://piazza.com/nyu/fall2016/dsga1005csciga2569/home) (li
 
 ## Schedule and Reading Assignments
 ***
+* __First Class (9/9/20)__  
 * __Introduction and Opportunities and Challenges in Healthcare (9/14/20)__  
 * __Risk Scores and Survival (9/21/20)__
 	+ [Opportunities in Machine Learning for Healthcare](https://arxiv.org/pdf/1806.00388.pdf)
