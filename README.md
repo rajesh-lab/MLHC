@@ -113,7 +113,7 @@ __Next Class__  : _(Wednesday, September 9, 2020) insert-lecture-title_
 		+ Resource I  
 		+ Resource II  
 		+ __No lab session__ :  
-
+   
 <!--
 ***
 * __First Class (9/9/20)__  
@@ -165,16 +165,9 @@ Intensive Care Units] (https://arxiv.org/pdf/1704.06300.pdf)
 Reinforcement Learning Approach](https://arxiv.org/pdf/1705.08422.pdf)
 * __The Role of Prior Knowledge? (11/30/20)__
 * __Project Presentations I (12/7/20)__
-* __Project Presentations II (12/14/20)__ --!>
-
-### Bibliography
-There is no required book. Assigned readings will come from freely-available online material.
-
-#### Core Materials
-
-
-#### Background on Probability and Optimization
-
-
-#### Further Reading
-
+* __Project Presentations II (12/14/20)__ 
+### Bibliography  
+There is no required book. Assigned readings will come from freely-available online material.  
+#### Core Materials  
+#### Background on Probability and Optimization  
+#### Further Reading  --!>
