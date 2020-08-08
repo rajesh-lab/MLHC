@@ -12,7 +12,7 @@ This is a seminar course that covers machine learning methods important for heal
 
 ## Course Structure
 
-* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class.  
+* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class. The video will be available on NYU classes 5 days prior to the lecture.
 
 * Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (35 min : 25 min + 10 min for questions)
 
@@ -32,7 +32,7 @@ Tuesdays, 1:00-1:50pm in TBD
 RR: Fill office hours. Fill location. room 1204.
 
 ### Grading
-The final project report will be the largest part of the grade. 
+The final project report will be the majority of the grade. 
 The project report is due on 12/15/20. In addition to the research paper, a weekly reading response
 is due in class. People will be required to report on their projects once during the
 course of the term.
@@ -48,6 +48,73 @@ We will use [Piazza](http://piazza.com/nyu/fall2016/dsga1005csciga2569/home) (li
 ## Lab Section
 
 ## Schedule and Reading Assignments
+
+***  
+__Next Class__  : _(Wednesday, September 9, 2020) insert-lecture-title_
+
+***
+* __(Wednesday, September 9, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ : 
+* __(Monday, September 14, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, September 21, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, September 28, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, October 5, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, October 12, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, October 19, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, October 26, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, November 2, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, November 9, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, November 16, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, November 23, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, November 30, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, December 7, 2020) insert-lecture-title__  
+		+ Resource I  
+		+ Resource II  
+		+ __Lab session__ :  
+* __(Monday, December 14, 2020) Final Project Presentations__  
+		+ Resource I  
+		+ Resource II  
+		+ __No lab session__ :  
+
+<!--
 ***
 * __First Class (9/9/20)__  
 * __Introduction and Opportunities and Challenges in Healthcare (9/14/20)__  
@@ -98,7 +165,7 @@ Intensive Care Units] (https://arxiv.org/pdf/1704.06300.pdf)
 Reinforcement Learning Approach](https://arxiv.org/pdf/1705.08422.pdf)
 * __The Role of Prior Knowledge? (11/30/20)__
 * __Project Presentations I (12/7/20)__
-* __Project Presentations II (12/14/20)__
+* __Project Presentations II (12/14/20)__ --!>
 
 ### Bibliography
 There is no required book. Assigned readings will come from freely-available online material.
