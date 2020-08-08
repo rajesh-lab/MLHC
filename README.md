@@ -16,7 +16,7 @@ This is a seminar course that covers machine learning methods important for heal
 
 * Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (35 min : 25 min + 10 min for questions)
 
-* Students can join the discussion or do their class presentations over zoom.
+* Students can join the discussion and do their class presentations over zoom or in-person.
 
 * A few lectures will be presentations from researchers involved in deploying machine learning models in the real world.
 
