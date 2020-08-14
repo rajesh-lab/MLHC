@@ -12,14 +12,20 @@ This is a seminar course that covers machine learning methods important for heal
 
 ## Course Structure
 
-* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class. The video will be available on NYU classes 5 days prior to the lecture.
-
-* Each class will be split up into two parts 1) lecture discussion (30 min) and 2) two student presentations (35 min : 25 min + 10 min for questions)
+* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class.
+	+ Both the required readings and the lecture video will be available 5 days prior to the lecture.
+	+ The lecture videos will be available in NYU classes (access with your registered NYU email).
+	+ Reading Responses about are due at the beginning of the class and will be graded.
+	
+* Each class will be split up into two parts
+	+ Lecture discussion (30 min)
+	+ Two student presentations of 35 min each (25 min + 10 min for questions)
 
 * Students can join the discussion and do their class presentations over zoom or in-person.
 
 * A few lectures will be presentations from researchers involved in deploying machine learning models in the real world.
 
+* There will be two versions of each Lab session: one in-person and one over zoom.
 
 
 ### Lecture Location
@@ -37,7 +43,7 @@ The project report is due on 12/15/20. In addition to the research paper, a week
 is due in class. People will be required to report on their projects once during the
 course of the term.
 
-**The grade split up is as follows:** 
+**The Grade split-up is as follows:** 
 
 **Reading Responses sets (10%) + lecture scribe (10%) + class presentation (10%) + final project report (70%).**
 
